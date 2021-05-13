@@ -1,1 +1,3 @@
-console.log("Hello from src/index.js!");
+import { initSelect2 } from './plugins/init_select2';
+
+initSelect2();
